@@ -1,3 +1,3 @@
 # DBMS-lab
 
-> Problems executed in DBMS LAB
+* Problems executed in DBMS LAB
